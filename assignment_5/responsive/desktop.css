@@ -1,0 +1,12 @@
+.para {
+    display: table-cell;
+    float:left;
+    border: 3px solid;
+    padding: 10px;
+    width: 33%;
+
+}
+
+#head {
+    background-color: aqua;
+}

@@ -1,0 +1,20 @@
+body {
+    background-image: url("indianbackground.jpg");
+}
+
+#words {
+    background-color: mediumvioletred;
+}
+
+.entree {
+    height: 300px;
+    width: 300px;
+    display: none;
+    margin: 0 auto;
+}
+
+#description {
+    font-family: "Verdana", Geneva, sans-serif;
+    background-color: mediumpurple;
+    padding: 30px;
+}

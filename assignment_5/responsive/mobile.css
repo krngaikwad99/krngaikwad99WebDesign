@@ -1,0 +1,17 @@
+.para {
+    display: table-cell;
+    float:left;
+    border: 3px solid;
+    padding: 10px;
+    width: 100%;
+
+}
+
+
+body {
+    font-size: 0.5em; 
+}
+
+#head {
+    background-color: blue;
+}
